@@ -1,0 +1,63 @@
+h1 {
+    color: darkred;
+    border-bottom-style: groove;
+    border-bottom-color: orange;
+   
+}
+ 
+.d {
+    text-align: center;
+}
+
+.p {
+    color: blue;
+    text-align: center;
+}
+
+#h31 {
+    color: brown;
+}
+
+#h32 {
+    color: brown; 
+}
+
+#h33 {
+    color: red;
+}
+
+#h34 {
+    color: red;
+}
+
+
+#h35 {
+    color: orangered;
+}
+
+#h36 {
+    color: orangered;
+}
+
+*{
+    background-color: rgb(0, 0, 0);
+}
+
+li {
+    color: blue;
+}
+
+.k {
+    border-style: groove;
+    border-color: blueviolet;
+    padding: 10px;
+    margin: 8px;
+}
+
+
+
+
+
+
+
+ 

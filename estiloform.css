@@ -1,0 +1,35 @@
+
+
+body {
+    text-align: center;
+    background-color: #000000;
+    font-family: sans-serif;
+
+}
+
+#tt {
+    font-family: sans-serif;
+    color: #ffffff;
+
+}
+
+#sub {
+    font-family: sans-serif;
+    color: #ffffff;
+
+}
+
+p {
+    color: #ffffff;
+}
+
+label {
+    color: #ffffff;
+}
+
+.b {
+    border-style: groove;
+    border-color: blue;
+    padding: 15px;
+}
+
